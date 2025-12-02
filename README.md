@@ -1,2 +1,3 @@
 # Redlife-prototipo
-Layout de cadastro
+Layout perfil do funcionario
+Objetivo é facilitar o trabalho profissional com intuito de ser organizado e eficiente para ele, aparencendo os doadores em conjuntos como um carousel, esse prototipo cria uma facilidade nos cadastro desses usuarios que vão ser doador.
